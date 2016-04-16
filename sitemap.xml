@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://minu.gg/about/index.html</loc>
+    
+    <lastmod>2016-04-16T13:14:15.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://minu.gg/404.html</loc>
     
     <lastmod>2016-04-16T09:01:18.000Z</lastmod>
@@ -33,13 +40,6 @@
     <loc>http://minu.gg/domain/index.html</loc>
     
     <lastmod>2016-04-14T06:50:00.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://minu.gg/about/index.html</loc>
-    
-    <lastmod>2016-04-14T06:49:14.000Z</lastmod>
     
   </url>
   
