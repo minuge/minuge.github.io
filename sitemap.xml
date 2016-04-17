@@ -2,9 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://minu.gg/categories/index.html</loc>
+    
+    <lastmod>2016-04-17T10:21:15.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://minu.gg/2016/04/13/ssm-com/</loc>
     
-    <lastmod>2016-04-17T04:41:41.000Z</lastmod>
+    <lastmod>2016-04-17T10:20:04.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://minu.gg/tags/index.html</loc>
+    
+    <lastmod>2016-04-17T10:18:14.000Z</lastmod>
     
   </url>
   
@@ -40,20 +54,6 @@
     <loc>http://minu.gg/domain/index.html</loc>
     
     <lastmod>2016-04-14T06:50:00.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://minu.gg/tags/index.html</loc>
-    
-    <lastmod>2016-04-14T03:52:52.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://minu.gg/categories/index.html</loc>
-    
-    <lastmod>2016-04-13T06:50:05.000Z</lastmod>
     
   </url>
   
