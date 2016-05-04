@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://minu.gg/"/>
-  <updated>2016-04-23T03:23:59.000Z</updated>
+  <updated>2016-05-04T06:15:16.000Z</updated>
   <id>http://minu.gg/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://minu.gg/2016/04/23/ss-com-cn/"/>
     <id>http://minu.gg/2016/04/23/ss-com-cn/</id>
     <published>2016-04-23T03:00:33.000Z</published>
-    <updated>2016-04-23T03:23:59.000Z</updated>
+    <updated>2016-05-04T06:15:16.000Z</updated>
     
     <content type="html">&lt;table&gt;
 &lt;thead&gt;
@@ -113,6 +113,13 @@
 &lt;td style=&quot;text-align:right&quot;&gt;&lt;a href=&quot;http://www.szqs.com.cn&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;szqs.com.cn&lt;/a&gt;&lt;/td&gt;
 &lt;td style=&quot;text-align:left&quot;&gt;&lt;/td&gt;
 &lt;td&gt;议价&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot;text-align:right&quot;&gt;&lt;a href=&quot;http://www.zjmw.com.cn&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;zjmw.com.cn&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&quot;text-align:left&quot;&gt;&lt;/td&gt;
+&lt;td&gt;议价&lt;/td&gt;
+&lt;td style=&quot;text-align:right&quot;&gt;&lt;/td&gt;
+&lt;td style=&quot;text-align:left&quot;&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
